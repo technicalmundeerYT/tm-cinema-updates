@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
+  "versionCode": 3, 
   "versionName": "1.2",
   "apkUrl": "https://github.com/technicalmundeerYT/tm-cinema-updates/releases/download/V1.2/TM.Cinema.apk",
-  "updateNotes": "🔥 Mega Update: Ab Smart TV aur TV Remote support ke sath! Player controls ab 4 seconds mein auto-hide honge aur naye Live TV channels add kiye gaye hain."
+  "updateNotes": "Smart TV support added!"
 }
