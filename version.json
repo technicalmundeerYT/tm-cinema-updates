@@ -2,5 +2,8 @@
   "versionCode": 55, 
   "versionName": "5.5",
   "apkUrl": "https://github.com/technicalmundeerYT/tm-cinema-updates/releases/download/V5.5/TM.Cinema.V5.5.apk",
-  "updateNotes": "🔥 TM Cinema Update v5.5 is here!\n\n✅ Added: Fix Pro mode .\n✅ Fixed: All streaming bugs and enhanced server protection.\n\nPlease update the app now to continue!"
+  "updateNotes": "🔥 TM Cinema Update v5.5 is here!\n\n✅ Added: Fix Pro mode .\n✅ Fixed: All streaming bugs and enhanced server protection.\n\nPlease update the app now to continue!",
+  "apiConfig": {
+    "secureApiUrl": "http://51.79.161.102/get_movies.php"
+  }
 }
